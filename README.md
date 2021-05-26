@@ -11,6 +11,12 @@ width="200"
 [<img src="/screenshots/findimage.jpg" align="center"
 width="200"
     hspace="10" vspace="10">]("/screenshots/findimage.jpg")
+[<img src="/screenshots/sending.jpg" align="center"
+width="200"
+    hspace="10" vspace="10">]("/screenshots/sending.jpg")
+[<img src="/screenshots/result.jpg" align="center"
+width="200"
+    hspace="10" vspace="10">]("/screenshots/result.jpg")
 
 
 
