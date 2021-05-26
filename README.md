@@ -38,8 +38,12 @@ width="200"
     hspace="10" vspace="10">]("/screenshots/result.jpg")
 
 ## Permissions and requirements
+Minimal SDK version - 21  
+Imagin requires the following permissions (will request on version Android 6.0 and higher):
+- Read and write access to external storage
+- Access camera to take a photo
+Application also uses Internet connection to send photo to the server
 
-- Minimal SDK version - 21
 
 
 
