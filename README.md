@@ -47,12 +47,13 @@ Application also uses Internet connection to send photo to the server
 ## Application details
 Using [AppIntro2](https://github.com/AppIntro/AppIntro) library for implementing the intro screens. 
 Also working with Android persistent storage: in order to show the intro only on the first launch.  
+
 For interaction with server using the [Retrofit 2](https://square.github.io/retrofit/) library. 
 Before sending image is converted to base64 representation. Result image is saved in the storage.  
 
 Authentication with JsonWebToken (JWT), for this implemented:
-- AuthInterceptor, which intercepts all requests and adds the required token to the header
-- TokenAuthenticator, an object that intercepts 401 status from the server (Unauthorized), 
+- AuthInterceptor - intercepts all requests and adds the required token to the header
+- TokenAuthenticator - an object that intercepts 401 status from the server (Unauthorized), 
   attempts to refresh the token and repeats the failed request with a new token
 
 
