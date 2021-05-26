@@ -41,8 +41,12 @@ width="200"
 Minimal SDK version - 21  
 Imagin requires the following permissions (will request on version Android 6.0 and higher):
 - Read and write access to external storage
-- Access camera to take a photo
+- Access camera to take a photo  
 Application also uses Internet connection to send photo to the server
+
+## Application details
+Using [AppIntro2](https://github.com/AppIntro/AppIntro) library for implementing the intro screens.Also working with Android persistent storage: in order to show the intro only on the first launch.  
+
 
 
 
