@@ -3,7 +3,7 @@
 <img src="/app/src/main/res/mipmap-hdpi/icon.png" align="left"
 width="75" hspace="0" vspace="0"> 
 Android application that sends your photo to the server  
-and returns a processed photo with your colortype.
+and returns a processed photo and your colortype.
 <br />
 <br />
 <br />
