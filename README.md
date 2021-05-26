@@ -11,13 +11,17 @@ and returns a processed photo with your color type.
 
 
 ## Screenshots
-
+Title
 [<img src="/screenshots/intro.jpg" align="left"
 width="200"
     hspace="10" vspace="10">]("/screenshots/intro.jpg")
+title
 [<img src="/screenshots/findimage.jpg" align="center"
 width="200"
     hspace="10" vspace="10">]("/screenshots/findimage.jpg")
+    
+<br />    
+    
 [<img src="/screenshots/sending.jpg" align="center"
 width="200"
     hspace="10" vspace="10">]("/screenshots/sending.jpg")
