@@ -1,13 +1,9 @@
 # Imagin
 
 <img src="/app/src/main/res/mipmap-hdpi/icon.png" align="left"
-width="100" hspace="10" vspace="10"> 
-Android application that sends your photo to the server and returns a processed photo and your color type.
+width="100" hspace="0" vspace="0"> 
+Android application that sends your photo to the server and returns a processed photo with your color type.
 <br />
-
-
-
-
 
 ## Screenshots
 
