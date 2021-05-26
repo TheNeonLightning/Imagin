@@ -17,6 +17,7 @@ The prototype of the application includes:
 - Result screen showing calculated color type with the option to view other types
 
 ## Screenshots
+When creating the application, the specified design was followed. 
 
 [<img src="/screenshots/intro.jpg" align="left"
 width="200"
