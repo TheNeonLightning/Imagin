@@ -3,12 +3,12 @@
 width="200" hspace="10" vspace="10">
 
 ## Screenshots
-[<img src="/screenshots/intro.png" align="left"
+[<img src="/screenshots/intro.jpg" align="left"
 width="200"
-    hspace="10" vspace="10">]("/screenshots/intro.png")
-[<img src="/screenshots/findimage.png" align="center"
+    hspace="10" vspace="10">]("/screenshots/intro.jpg")
+[<img src="/screenshots/findimage.jpg" align="center"
 width="200"
-    hspace="10" vspace="10">]("/screenshots/findimage.png")
+    hspace="10" vspace="10">]("/screenshots/findimage.jpg")
 
 
 
