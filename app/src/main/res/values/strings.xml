@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name"><b>Imagin</b></string>
+    <string name="capture_image">Capture image</string>
+    <string name="make_image">Make image</string>
+    <string name="load_image">Load image</string>
+    <string name="change_image">Change image</string>
+    <string name="send_image">Send image</string>
+    <string name="intro_end">Got it</string>
+    <string name="result">Detailed result</string>
+    <string name="find_clothes">Find clothes</string>
+
+    <string name="retry">Retry</string>
+
+    <string name="seasons">Seasons</string>
+    <string name="summer">Summer</string>
+    <string name="winter">Winter</string>
+    <string name="autumn">Autumn</string>
+    <string name="spring">Spring</string>
+
+    <string name="send_image_text">
+        Sending image for processing…
+        [Possibly would place original image here while operating]
+    </string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+
+    <string name="intro1_title">What is it?</string>
+    <string name="intro2_title">How it works?</string>
+    <string name="intro3_title">What will you get?</string>
+
+    <string name="intro1_text">Artificial intelligence to help you create a unique style</string>
+    <string name="intro2_text">Just send a photo and get your personal result</string>
+    <string name="intro3_text">Good advice</string>
+
+    <string name="hint_image"><b>Scanning</b>\nTake a photo of yourself as shown in the example</string>
+
+    <string name="hint_sending">You can see personal color set after processing</string>
+
+    <string name="hint_result"><b>Ready!</b>\nWe have selected the colors of clothes that are most suitable for your color type</string>
+
+    <string name="network_failure">
+        <b>Network failure:</b>\n check connection and try again later
+    </string>
+
+    <string name="color_hint">
+        Choose the colors that suit you
+    </string>
+
+    <string name="conversion_error">
+        <b>Error on server:</b>\n please try again later
+    </string>
+</resources>
