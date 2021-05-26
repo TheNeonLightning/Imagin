@@ -21,21 +21,21 @@ When creating the application, the specified design was followed.
 
 [<img src="/screenshots/intro.jpg" align="left"
 width="200"
-    hspace="10" vspace="10">]("/screenshots/intro.jpg")
+    hspace="10" vspace="10">](/screenshots/intro.jpg)
     
 [<img src="/screenshots/findimage.jpg" align="center"
 width="200"
-    hspace="10" vspace="10">]("/screenshots/findimage.jpg")
+    hspace="10" vspace="10">](/screenshots/findimage.jpg)
     
 <br />    
     
 [<img src="/screenshots/sending.jpg" align="left"
 width="200"
-    hspace="10" vspace="10">]("/screenshots/sending.jpg")
+    hspace="10" vspace="10">](/screenshots/sending.jpg)
     
 [<img src="/screenshots/result.jpg" align="center"
 width="200"
-    hspace="10" vspace="10">]("/screenshots/result.jpg")
+    hspace="10" vspace="10">](/screenshots/result.jpg)
 
 ## Permissions and requirements
 Minimal SDK version - 21  
